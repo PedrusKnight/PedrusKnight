@@ -5,18 +5,10 @@ Welcome to my GitHub profile. I am a passionate programming student and I am alw
 
 
 <div align="center">
-  <h3><b>Let's get in touch! </b></h3>
+ 
   </div>
 <p align="center">
-<a href="www.linkedin.com/in/pedro-miguel-benitez-franco-1478862a9" target="_blank">
-  <img align="center" alt="Pedro Benitez | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="(https://www.instagram.com/pedro.m._11/)" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:pedromiguelbenitezfranco5@gmail.com" >
-  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+
 <p>
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
