@@ -1,5 +1,7 @@
 ##     Hola, soy Pedro 👋
 
+Bienvenido a mi perfil de GitHub. Soy un estudiante apasionado por la programación y siempre estoy buscando aprender algo nuevo.
+
 <!--
 **PedrusKnight/PedrusKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
