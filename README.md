@@ -1,7 +1,8 @@
 ##     Hola, soy Pedro 👋
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 Bienvenido a mi perfil de GitHub. Soy un estudiante apasionado por la programación y siempre estoy buscando aprender algo nuevo.
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
+
 <!--
 **PedrusKnight/PedrusKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
